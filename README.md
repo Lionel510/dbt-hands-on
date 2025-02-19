@@ -1,1 +1,0 @@
-# dbt-hands-on
